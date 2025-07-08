@@ -4,6 +4,7 @@
 A Java-based online bookstore simulation built with Object-Oriented Programming (OOP) principles. The system is designed to be extensible, allowing easy addition of new book types without modifying core logic.
 
 **🛠️ Features**
+
 📘 Support for multiple book types:
 
 PaperBook – has stock, ships to addresses
